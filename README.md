@@ -62,3 +62,4 @@ From your terminal (You will need to install Git, google it):
 * Struggling to install Python or PIP? Watch this video <a href="https://youtu.be/dYfKJMPNMDw?t=52">here</a>. 
 * Join our Discord for more help.
 x
+
